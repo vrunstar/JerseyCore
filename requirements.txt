@@ -7,3 +7,6 @@ python-dotenv==1.1.1
 sqlparse==0.5.3
 tzdata==2025.2
 wheel
+dj-database-url
+psycopg2-binary
+whitenoise
